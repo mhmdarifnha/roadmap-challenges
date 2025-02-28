@@ -7,6 +7,7 @@ Ini adalah kumpulan proyek yang dikerjakan berdasarkan tantangan dari [roadmap.s
 Berikut adalah beberapa proyek yang sedang dikerjakan:
 
 - [Single Page CV](https://roadmap.sh/projects/single-page-cv) - Membangun CV dalam satu halaman menggunakan HTML.
+- [Basic HTML website](https://roadmap.sh/projects/basic-html-website) - Membangun website sederhana menggunakan HTML.
 
 ## 🎯 Tujuan
 - Mengembangkan skill dengan mengerjakan proyek nyata.
