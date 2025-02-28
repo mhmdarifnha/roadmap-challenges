@@ -1,0 +1,131 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>basic-html-website</title>
+    <style>
+        div.container {
+            display: grid;
+            gap: 1rem;
+            grid-template-columns: repeat(3, 1fr);
+
+            .card {
+                outline: solid 1px black;
+                border-radius: .5rem;
+                padding: .5rem;
+            }
+        }
+    </style>
+</head>
+
+<body>
+    <header style="display: flex; justify-content: space-between; align-items: center;">
+        <h3 id="brand">mhmdarifnha</h3>
+        <nav>
+            <a href="/index.html">Home</a>
+            <a href="/article.html">Article</a>
+        </nav>
+    </header>
+
+    <section class="hero">
+        <center>
+            <h1>Frontend Developer</h1>
+            <p>basic html website</p>
+        </center>
+    </section>
+
+    <section>
+        <table>
+            <tr>
+                <td>
+                    <table style="height: max-content;width: 100%;">
+                        <tr>
+                            <td>
+                                <h3>Projects</h3>
+                                <p>HTML only</p>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td><a href="">Project1</a></td>
+                        </tr>
+                        <tr>
+                            <td><a href="">Project2</a></td>
+                        </tr>
+                        <tr>
+                            <td><a href="">Project3</a></td>
+                        </tr>
+                    </table>
+                </td>
+                <td>
+                    <table>
+                        <tr>
+                            <td>
+                                <h3>Work Experience</h3>
+                                <p>roadmap.sh</p>
+                                <p>frontend</p>
+                                <a href="">Visit profile</a>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td>
+                                <h3>Opensource Work</h3>
+                                <p>contributed to make website big like goverment price expensive</p>
+                                <a href="https://github.com/mhmdarifnha">Visit my github</a>
+                            </td>
+                        </tr>
+                    </table>
+                </td>
+                <td>
+                    <table>
+                        <tr>
+                            <td>
+                                <h3>Education</h3>
+                                <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. A quae cupiditate assumenda
+                                    ipsum
+                                    itaque tenetur, laboriosam animi minima porro commodi.</p>
+
+                                <p>Courses I took:</p>
+                                <ul>
+                                    <li>HTML</li>
+                                    <li>Website Responsive</li>
+                                    <li>CSS</li>
+                                    <li>Javascript</li>
+                                </ul>
+                            </td>
+                        </tr>
+                    </table>
+                </td>
+            </tr>
+        </table>
+    </section>
+
+    <section class="reviews">
+        <h3>Reviews from my Teachers</h3>
+
+        <div class="container">
+            <div class="card">
+                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Provident, deserunt.</p>
+                <p>John Doe Assistant Professor</p>
+            </div>
+            <div class="card">
+                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Illum, dicta.</p>
+                <p>John Doe Assistant Professor</p>
+            </div>
+            <div class="card">
+                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Esse, iusto.</p>
+                <p>John Doe Assistant Professor</p>
+            </div>
+        </div>
+    </section>
+
+    <footer>
+        <center>
+            <p>&copy; all rights reserved 2025</p>
+        </center>
+    </footer>
+
+</body>
+
+</html>
