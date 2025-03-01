@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Projects</title>
+    <style>
+        div.container {
+            display: grid;
+            gap: 1rem;
+            grid-template-columns: repeat(3, 1fr);
+
+            .card {
+                outline: solid 1px black;
+                border-radius: .5rem;
+                padding: .5rem;
+            }
+        }
+    </style>
+</head>
+
+<body>
+    <header style="display: flex; justify-content: space-between; align-items: center;">
+        <a href="./index.html">
+            <h3>Back</h3>
+        </a>
+        <nav>
+            <a href="/index.html">Home</a>
+            <a href="/projects.html">Projects</a>
+            <a href="/articles.html">Articles</a>
+            <a href="/contact.html">Contact</a>
+        </nav>
+    </header>
+
+    <main>
+        <div class="container">
+            <div class="card">
+                <h3>Project</h3>
+                <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Expedita, nesciunt!</p>
+            </div>
+            <div class="card">
+                <h3>Project</h3>
+                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Fugit, maxime.</p>
+            </div>
+            <div class="card">
+                <h3>Project</h3>
+                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Sit, consequuntur?</p>
+            </div>
+        </div>
+    </main>
+</body>
+
+</html>
