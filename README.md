@@ -8,6 +8,7 @@ Berikut adalah beberapa proyek yang sedang dikerjakan:
 
 - [Single Page CV](https://roadmap.sh/projects/single-page-cv) - Membangun CV dalam satu halaman menggunakan HTML.
 - [Basic HTML website](https://roadmap.sh/projects/basic-html-website) - Membangun website sederhana menggunakan HTML.
+- [Portfolio HTML](https://roadmap.sh/projects/portfolio-website) - Create website static HTML CSS.
 
 ## 🎯 Tujuan
 
