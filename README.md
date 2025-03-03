@@ -1,20 +1,20 @@
 # Roadmap.sh Challenges 🚀
 
-Ini adalah kumpulan proyek yang dikerjakan berdasarkan tantangan dari [roadmap.sh](https://roadmap.sh/). Folder ini berisi berbagai proyek yang dikategorikan berdasarkan bidang tertentu, seperti **Frontend**, **Backend**, dan lainnya.
+This repository contains projects based on challenges from [roadmap.sh](https://roadmap.sh/). The projects are categorized into different fields, such as **Frontend**, **Backend**, and more.
 
-## 📌 Proyek yang Sedang Dikerjakan
+## 📌 Ongoing Projects
 
-Berikut adalah beberapa proyek yang sedang dikerjakan:
+Here are some of the projects currently in progress:
 
-- [Single Page CV](https://roadmap.sh/projects/single-page-cv) - Membangun CV dalam satu halaman menggunakan HTML.
-- [Basic HTML website](https://roadmap.sh/projects/basic-html-website) - Membangun website sederhana menggunakan HTML.
-- [Portfolio HTML](https://roadmap.sh/projects/portfolio-website) - Create website static HTML CSS.
+- [Single Page CV](https://roadmap.sh/projects/single-page-cv) - Create a one-page CV using HTML.
+- [Basic HTML website](https://roadmap.sh/projects/basic-html-website) - Create a simple website using HTML.
+- [Portfolio HTML](https://roadmap.sh/projects/portfolio-website) - Create a static website using HTML and CSS.
 
-## 🎯 Tujuan
+## 🎯 Goals
 
-- Mengembangkan skill dengan mengerjakan proyek nyata.
-- Mengikuti roadmap dan best practice yang direkomendasikan oleh roadmap.sh.
-- Membangun portofolio proyek yang bermanfaat.
+- Improve skills by working on real-world projects.
+- Follow the roadmap and best practices recommended by roadmap.sh.
+- Build a valuable project portfolio.
 
 ---
 
